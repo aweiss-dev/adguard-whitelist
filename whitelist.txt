@@ -63,11 +63,6 @@
 @@||geo-prod.do.dsp.mp.microsoft.com 
 @@||displaycatalog.mp.microsoft.com
 
-!Windows 10 Update
-@@||sls.update.microsoft.com.akadns.net 
-@@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net 
-@@||tlu.dl.delivery.mp.microsoft.com
-
 !Microsoft Edge Browser Update
 @@||msedge.api.cdp.microsoft.com
 
@@ -130,6 +125,13 @@
 @@||catalog.gamepass.com^
 @@||go.microsoft.com^
 @@||dmd.metaservices.microsoft.com^
+@@||fd.api.iris.microsoft.com
+@@||fp.msedge.net
+@@||playfabapi.com
+
+!Epic Games
+@@||api.epicgames.dev
+@@||connect.epicgames.dev
 
 
 !Apple
