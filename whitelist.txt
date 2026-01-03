@@ -62,6 +62,8 @@
 @@||dl.delivery.mp.microsoft.com 
 @@||geo-prod.do.dsp.mp.microsoft.com 
 @@||displaycatalog.mp.microsoft.com
+@@||*.msedge.net
+@@||eudb.ris.api.iris.microsoft.com
 
 !Microsoft Edge Browser Update
 @@||msedge.api.cdp.microsoft.com
